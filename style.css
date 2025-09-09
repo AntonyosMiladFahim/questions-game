@@ -1,0 +1,15 @@
+        .result{
+            background-color: lightgray;
+            width: 400px;
+            padding: 20px;
+            margin: auto;
+            text-align: center;
+            margin-top: 50px;
+            font-size: 20px;
+        }
+        div#timerdiv{
+            background-color:#419D78;
+            color:#EFD0CA;
+            font-size:20px;
+            text-align:center;
+        }
